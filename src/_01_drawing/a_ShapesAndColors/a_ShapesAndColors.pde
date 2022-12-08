@@ -1,3 +1,18 @@
+//this creates the window
+size(500, 800);
+//bottom of snowman
+ellipse(250, 650, 250, 250);
+//middle snowman
+ellipse(250, 425, 200, 200);
+//bottom of the snowman
+ellipse(250, 250, 150, 150);
+
+//This creates the hat of the snowman
+fill(#000000);
+rect(175, 50, 150, 125);
+fill(#000000);
+rect(150, 150, 200, 25);
+
 // 1. Run this empty program 
 // The grey square that appears has sides that are 100 pixels long
 
